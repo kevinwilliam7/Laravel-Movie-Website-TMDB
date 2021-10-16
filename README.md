@@ -18,6 +18,7 @@
 ## Features
 - [X] Search Movie by Title, Genres, Country
 - [X] Show Detail Movie
+- [X] Darkmode
 
 ## License
 
