@@ -33,6 +33,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## Features
 - [X] Search Movie by Title, Genres, Country
 - [X] Show Detail Movie
+- [X] Show Similar Movies
 - [X] Darkmode
 
 ## License
