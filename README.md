@@ -23,6 +23,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Preview
 ![ezgif-1-8902c9d98680](https://user-images.githubusercontent.com/76833135/137587490-fbfa4a10-b1be-437c-bc00-7ece67d8478e.gif)
+![image](https://user-images.githubusercontent.com/76833135/137587775-1c99b18f-83bc-44cb-beaf-0e36314ae4a6.png)
 
 ## Component Version
 - [Laravel Framework](https://laravel.com/docs/8.x/installation) Version 8.55.0
