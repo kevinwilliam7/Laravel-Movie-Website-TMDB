@@ -6,11 +6,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-## Overview
 
+## Preview
 ![ezgif-1-8902c9d98680](https://user-images.githubusercontent.com/76833135/137587490-fbfa4a10-b1be-437c-bc00-7ece67d8478e.gif)
+
+## Component Version
+- [Laravel Framework](https://laravel.com/docs/8.x/installation) Version 8.55.0
+- [Livewire Version](https://laravel-livewire.com/docs/2.x/installation) Version 2.5.5
+- [Tailwind CSS](https://tailwindcss.com/docs/guides/laravel) Version 2.2.7
+
+## Features
+- [X] Search Movie by Title, Genres, Country
+- [X] Show Detail Movie
 
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# Laravel-Movie-Website-TMDB
